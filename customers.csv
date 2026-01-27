@@ -1,0 +1,5 @@
+customer_id,customer_name,country,created_date
+101,Alice,India,2023-12-01
+102,Bob,USA,2023-12-05
+103,Charlie,India,2023-12-10
+104,David,UK,2023-12-15
